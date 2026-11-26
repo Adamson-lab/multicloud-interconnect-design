@@ -344,20 +344,21 @@ pie showData
 Where each connectivity option sits on the cost and resilience scale. The target quadrant is high resilience at a cost the business can defend.
 
 ```mermaid
+%%{init: {"quadrantChart": {"chartWidth": 920, "chartHeight": 920, "titleFontSize": 30, "quadrantLabelFontSize": 24, "quadrantTextTopPadding": 18, "quadrantPadding": 50, "pointLabelFontSize": 20, "pointRadius": 9, "pointTextPadding": 10, "xAxisLabelFontSize": 22, "yAxisLabelFontSize": 22, "xAxisLabelPadding": 14, "yAxisLabelPadding": 14}}}%%
 quadrantChart
-  title Connectivity options, positioned for executive review
+  title Connectivity options for executive review
   x-axis Lower annual cost --> Higher annual cost
   y-axis Lower resilience --> Higher resilience
-  quadrant-1 Recommended for critical estates
-  quadrant-2 Overbuilt for most workloads
-  quadrant-3 Acceptable for non-critical only
-  quadrant-4 Cheap but fragile
-  Internet VPN single site: [0.12, 0.18]
-  Internet VPN dual site: [0.22, 0.38]
-  Single metro dedicated: [0.40, 0.52]
-  Dual metro dedicated: [0.66, 0.88]
-  "Dual metro plus SD-WAN overlay": [0.80, 0.93]
-  "Carrier-managed full mesh": [0.90, 0.80]
+  quadrant-1 Premium resilience
+  quadrant-2 Best value
+  quadrant-3 Non-critical only
+  quadrant-4 Costly and fragile
+  "Internet VPN, single site": [0.12, 0.16]
+  "Internet VPN, dual site": [0.24, 0.34]
+  "Single metro dedicated": [0.36, 0.64]
+  "Dual metro dedicated": [0.62, 0.72]
+  "Dual metro + SD-WAN": [0.78, 0.84]
+  "Carrier full mesh": [0.80, 0.60]
 ```
 
 ## 13. Pattern selection decision tree
@@ -446,4 +447,5 @@ journey
     Evidence pack filed: 4: Risk, Compliance
     Lessons logged to ADR: 4: Architecture board
 ```
+
 
