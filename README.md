@@ -345,9 +345,9 @@ quadrantChart
   quadrant-2 Best value
   quadrant-3 Non-critical only
   quadrant-4 Costly and fragile
-  "Internet VPN, single site": [0.12, 0.16]
-  "Internet VPN, dual site": [0.24, 0.34]
-  "Single metro dedicated": [0.36, 0.64]
+  "Internet VPN, single site": [0.22, 0.16]
+  "Internet VPN, dual site": [0.30, 0.34]
+  "Single metro dedicated": [0.30, 0.64]
   "Dual metro dedicated": [0.62, 0.72]
   "Dual metro + SD-WAN": [0.78, 0.84]
   "Carrier full mesh": [0.80, 0.60]
