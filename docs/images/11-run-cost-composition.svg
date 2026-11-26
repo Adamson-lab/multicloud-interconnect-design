@@ -10,7 +10,7 @@
 <path d="M400,480 L146.70,319.25 A300,300 0 0 1 307.29,194.68 Z" fill="#e76f51" stroke="#ffffff" stroke-width="4"/>
 <text x="286.00" y="333.03" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff">11%</text>
 <path d="M400,480 L307.29,194.68 A300,300 0 0 1 400.00,180.00 Z" fill="#6a994e" stroke="#ffffff" stroke-width="4"/>
-<text x="370.90" y="296.29" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff">5%</text>
+<text x="362.5" y="243" text-anchor="middle" dominant-baseline="middle" transform="rotate(-9 362.5 243)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff">5%</text>
 <rect x="800" y="266" width="48" height="48" rx="8" fill="#1f3a5f" stroke="#0d1b2a" stroke-width="1.5"/>
 <text x="872" y="300" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="600" fill="#0d1b2a">Carrier port and cross-connect fees (44%)</text>
 <rect x="800" y="376" width="48" height="48" rx="8" fill="#2e86ab" stroke="#0d1b2a" stroke-width="1.5"/>
