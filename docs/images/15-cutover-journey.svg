@@ -4,9 +4,9 @@
 <rect x="40" y="150" width="260" height="230" rx="14" fill="#dfe7f5" stroke="#5b7fa6" stroke-width="2"/>
 <text x="170.0" y="265.0" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#0d1b2a">Before</text>
 <rect x="330" y="150" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="350" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Receives migration</text>
-<text x="350" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">calendar</text>
-<text x="350" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Application owner</text>
+<text x="350" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Receives migration</text>
+<text x="350" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">calendar</text>
+<text x="350" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Application owner</text>
 <circle cx="358" cy="355" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="388" cy="355" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="418" cy="355" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
@@ -14,10 +14,10 @@
 <circle cx="478" cy="355" r="10" fill="#ffffff" stroke="#66bb6a" stroke-width="2.5"/>
 <text x="505" y="363" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#66bb6a">4/5</text>
 <rect x="690" y="150" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="710" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Runs pre-check</text>
-<text x="710" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">in non-prod</text>
-<text x="710" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Application owner,</text>
-<text x="710" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Platform team</text>
+<text x="710" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Runs pre-check</text>
+<text x="710" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">in non-prod</text>
+<text x="710" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Application owner,</text>
+<text x="710" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Platform team</text>
 <circle cx="718" cy="355" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="748" cy="355" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="778" cy="355" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
@@ -25,9 +25,9 @@
 <circle cx="838" cy="355" r="10" fill="#ffffff" stroke="#66bb6a" stroke-width="2.5"/>
 <text x="865" y="363" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#66bb6a">4/5</text>
 <rect x="1050" y="150" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="1070" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Signs off readiness</text>
-<text x="1070" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">checklist</text>
-<text x="1070" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Application owner, Risk</text>
+<text x="1070" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Signs off readiness</text>
+<text x="1070" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">checklist</text>
+<text x="1070" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Application owner, Risk</text>
 <circle cx="1078" cy="355" r="10" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
 <circle cx="1108" cy="355" r="10" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
 <circle cx="1138" cy="355" r="10" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
@@ -38,9 +38,9 @@
 <text x="170.0" y="520.0" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#0d1b2a">Cutover</text>
 <text x="170.0" y="560.0" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#0d1b2a">window</text>
 <rect x="330" y="425" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="350" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Canary traffic</text>
-<text x="350" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">on one path</text>
-<text x="350" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Platform team</text>
+<text x="350" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Canary traffic</text>
+<text x="350" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">on one path</text>
+<text x="350" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Platform team</text>
 <circle cx="358" cy="630" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="388" cy="630" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="418" cy="630" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
@@ -48,9 +48,9 @@
 <circle cx="478" cy="630" r="10" fill="#ffffff" stroke="#66bb6a" stroke-width="2.5"/>
 <text x="505" y="638" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#66bb6a">4/5</text>
 <rect x="690" y="425" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="710" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Synthetic checks</text>
-<text x="710" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">green</text>
-<text x="710" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">NOC</text>
+<text x="710" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Synthetic checks</text>
+<text x="710" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">green</text>
+<text x="710" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">NOC</text>
 <circle cx="718" cy="630" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
 <circle cx="748" cy="630" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
 <circle cx="778" cy="630" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
@@ -58,9 +58,9 @@
 <circle cx="838" cy="630" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
 <text x="865" y="638" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2e7d32">5/5</text>
 <rect x="1050" y="425" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="1070" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Full traffic</text>
-<text x="1070" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">moved</text>
-<text x="1070" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Platform team, NOC</text>
+<text x="1070" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Full traffic</text>
+<text x="1070" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">moved</text>
+<text x="1070" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Platform team, NOC</text>
 <circle cx="1078" cy="630" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="1108" cy="630" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="1138" cy="630" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
@@ -68,10 +68,10 @@
 <circle cx="1198" cy="630" r="10" fill="#ffffff" stroke="#66bb6a" stroke-width="2.5"/>
 <text x="1225" y="638" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#66bb6a">4/5</text>
 <rect x="1410" y="425" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="1430" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Business</text>
-<text x="1430" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">transactions</text>
-<text x="1430" y="545" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">verified</text>
-<text x="1430" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Application owner</text>
+<text x="1430" y="477" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Business</text>
+<text x="1430" y="511" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">transactions</text>
+<text x="1430" y="545" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">verified</text>
+<text x="1430" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Application owner</text>
 <circle cx="1438" cy="630" r="10" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
 <circle cx="1468" cy="630" r="10" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
 <circle cx="1498" cy="630" r="10" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
@@ -81,9 +81,9 @@
 <rect x="40" y="700" width="260" height="230" rx="14" fill="#f3e3f7" stroke="#5b7fa6" stroke-width="2"/>
 <text x="170.0" y="815.0" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#0d1b2a">After</text>
 <rect x="330" y="700" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="350" y="752" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Post-cutover report</text>
-<text x="350" y="786" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">issued</text>
-<text x="350" y="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Platform team</text>
+<text x="350" y="752" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Post-cutover report</text>
+<text x="350" y="786" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">issued</text>
+<text x="350" y="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Platform team</text>
 <circle cx="358" cy="905" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
 <circle cx="388" cy="905" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
 <circle cx="418" cy="905" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
@@ -91,9 +91,9 @@
 <circle cx="478" cy="905" r="10" fill="#2e7d32" stroke="#2e7d32" stroke-width="2.5"/>
 <text x="505" y="913" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2e7d32">5/5</text>
 <rect x="690" y="700" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="710" y="752" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Evidence pack</text>
-<text x="710" y="786" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">filed</text>
-<text x="710" y="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Risk, Compliance</text>
+<text x="710" y="752" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Evidence pack</text>
+<text x="710" y="786" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">filed</text>
+<text x="710" y="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Risk, Compliance</text>
 <circle cx="718" cy="905" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="748" cy="905" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="778" cy="905" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
@@ -101,9 +101,9 @@
 <circle cx="838" cy="905" r="10" fill="#ffffff" stroke="#66bb6a" stroke-width="2.5"/>
 <text x="865" y="913" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#66bb6a">4/5</text>
 <rect x="1050" y="700" width="330" height="230" rx="14" fill="#ffffff" stroke="#5b7fa6" stroke-width="2.5"/>
-<text x="1070" y="752" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">Lessons logged</text>
-<text x="1070" y="786" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0d1b2a">to ADR</text>
-<text x="1070" y="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4a5568">Architecture board</text>
+<text x="1070" y="752" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">Lessons logged</text>
+<text x="1070" y="786" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0d1b2a">to ADR</text>
+<text x="1070" y="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4a5568">Architecture board</text>
 <circle cx="1078" cy="905" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="1108" cy="905" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
 <circle cx="1138" cy="905" r="10" fill="#66bb6a" stroke="#66bb6a" stroke-width="2.5"/>
