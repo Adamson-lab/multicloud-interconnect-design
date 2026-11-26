@@ -422,22 +422,6 @@ flowchart LR
 
 What an application owner lives through during a cutover, scored from calm (5) to stressful (1). The aim is that no owner ever scores below 3.
 
-```mermaid
-journey
-  title Application owner cutover journey
-  section Before
-    Receives migration calendar: 4: Application owner
-    Runs pre-check in non-prod: 4: Application owner, Platform team
-    Signs off readiness checklist: 3: Application owner, Risk
-  section Cutover window
-    Canary traffic on one path: 4: Platform team
-    Synthetic checks green: 5: NOC
-    Full traffic moved: 4: Platform team, NOC
-    Business transactions verified: 3: Application owner
-  section After
-    Post-cutover report issued: 5: Platform team
-    Evidence pack filed: 4: Risk, Compliance
-    Lessons logged to ADR: 4: Architecture board
-```
+<p align="center"><img src="docs/images/15-cutover-journey.svg" alt="Application owner cutover journey" width="100%"></p>
 
 
