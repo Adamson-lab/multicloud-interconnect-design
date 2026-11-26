@@ -1,4 +1,4 @@
-# Multicloud Private Interconnect Design
+﻿# Multicloud Private Interconnect Design
 
 Reference architecture and working infrastructure-as-code for private, dedicated connectivity between an enterprise estate and AWS (Direct Connect), Azure (ExpressRoute) and Google Cloud (Cloud Interconnect). Built for regulated, mission-critical estates: banks, Fortune 100 and Fortune 500 enterprises, federal agencies and parastatals.
 
@@ -129,7 +129,7 @@ sequenceDiagram
   COLO->>AZ: Forward summary, AS-path 64600
   AWS-->>COLO: Advertise 10.64.0.0/16 (prod only)
   AZ-->>COLO: Advertise 10.80.0.0/16 (prod only)
-  COLO-xAWS: Default route 0.0.0.0/0 rejected by policy
+  COLO -x AWS: Default route 0.0.0.0/0 rejected by policy
   Note over COLO,AZ: Max-prefix guard: 200 routes per session
   ENT->>COLO: Keepalive every 10 s, hold timer 30 s
   COLO-->>ENT: Session established, preference Metro A
@@ -157,7 +157,7 @@ sequenceDiagram
   MON->>NOC: Page with incident template and carrier contact
   NOC->>MB: Confirm capacity at 130 percent of normal load
   NOC->>MON: Verify latency back to baseline within 5 minutes
-  Note over EDGE,APP: Degraded but serving; RPO 0, RTO under 60 s
+  Note over EDGE,APP: Degraded but serving. RPO 0, RTO under 60 s
 ```
 
 ## 5. Blast-radius map by failure domain
@@ -356,8 +356,8 @@ quadrantChart
   Internet VPN dual site: [0.22, 0.38]
   Single metro dedicated: [0.40, 0.52]
   Dual metro dedicated: [0.66, 0.88]
-  Dual metro plus SD-WAN overlay: [0.80, 0.93]
-  Carrier-managed full mesh: [0.90, 0.80]
+  "Dual metro plus SD-WAN overlay": [0.80, 0.93]
+  "Carrier-managed full mesh": [0.90, 0.80]
 ```
 
 ## 13. Pattern selection decision tree
@@ -446,3 +446,4 @@ journey
     Evidence pack filed: 4: Risk, Compliance
     Lessons logged to ADR: 4: Architecture board
 ```
+
