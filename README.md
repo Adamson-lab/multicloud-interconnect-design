@@ -1,4 +1,4 @@
-﻿# Multicloud Private Interconnect Design
+# Multicloud Private Interconnect Design
 
 Reference architecture and working infrastructure-as-code for private, dedicated connectivity between an enterprise estate and AWS (Direct Connect), Azure (ExpressRoute) and Google Cloud (Cloud Interconnect). Built for regulated, mission-critical estates: banks, Fortune 100 and Fortune 500 enterprises, federal agencies and parastatals.
 
@@ -329,15 +329,7 @@ flowchart TB
 
 Illustrative split for a dual-metro, three-cloud design. Replace with contract figures before any funding decision.
 
-```mermaid
-pie showData
-  title Annual run-cost composition (illustrative)
-  "Carrier port and cross-connect fees" : 44
-  "Cloud data-transfer (egress)" : 28
-  "Managed monitoring and SOC coverage" : 12
-  "Engineering run team" : 11
-  "Spares, testing and DR drills" : 5
-```
+<p align="center"><img src="docs/images/11-run-cost-composition.svg" alt="Annual run-cost composition pie chart" width="100%"></p>
 
 ## 12. Option positioning: cost against resilience
 
